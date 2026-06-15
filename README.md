@@ -63,13 +63,6 @@ Java (version)
 
 JUnit (for unit testing)
 
-(Add any other technologies used)
-
-Getting Started
-Prerequisites
-Java (specify version)
-
-(Other dependencies)
 
 Running the Game
 bash
