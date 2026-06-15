@@ -34,6 +34,7 @@ Singleton	Centralized, thread-safe logging (Logger)
 Factory	Dynamic creation of Player and PlayedApple instances
 Dependency Injection	ServiceLocator pattern for loose coupling between modules
 Booch's Metrics Achieved
+
 ✅ Low Coupling – Modules connected through interfaces only
 
 ✅ High Cohesion – Each module has a clear, focused purpose
